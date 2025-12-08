@@ -5,7 +5,7 @@
 ---
 
 <div align="center">
-  <img src="./profile.jpg"
+  <img src="https://github.com/Sancho-soft/Sancho-soft/blob/main/profile.jpg?raw=true"
        width="150"
        style="border-radius: 50%; border: 3px solid #00eaff;" 
        alt="Sancho-Soft Profile" />
@@ -18,7 +18,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Reddit"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </p>
@@ -44,7 +43,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
 </p>
 
 ### 🗄️ Databases
@@ -66,19 +64,8 @@
 
 # 📈 GitHub Stats
 <div align="center">
-  <a href="https://github.com/Sancho-soft#gh-dark-mode-only">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sancho-soft&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Sancho-soft#gh-dark-mode-only">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancho-soft&layout=compact&theme=tokyonight" />
-  </a>
-  
-  <a href="https://github.com/Sancho-soft#gh-light-mode-only">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Sancho-soft&show_icons=true&theme=buefy" />
-  </a>
-  <a href="https://github.com/Sancho-soft#gh-light-mode-only">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancho-soft&layout=compact&theme=buefy" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sancho-soft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancho-soft&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
 </div>
 
 ---
