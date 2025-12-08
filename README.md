@@ -1,21 +1,33 @@
 <!-- HEADER IMAGE -->
 <p align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL_HERE" width="200" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/Sancho-soft/Sancho-soft/main/profile.jpg" width="200" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Aldren Louie Reyes</h1>
-<h3 align="center">Software Developer • Python | Laravel | Flutter | C# | Docker</h3>
+<h3 align="center">Software Developer • Python | Laravel | Flutter | C# | Docker | Networking & Hardware</h3>
 
 ---
 
-### 👨‍💻 About Me  
+### 👨‍💻 About Me
 I'm a developer who enjoys building practical projects — sometimes just a hobby, sometimes something serious.  
-I love working across multiple stacks, from mobile apps to web backends, and always exploring new tools.
+I love working across multiple stacks, from mobile apps to backend systems, hardware troubleshooting, and PC repair.
 
 ---
 
-### 🚀 Tech Stack  
-#### Languages & Frameworks  
+### 🖥️ Networking & Hardware Skills
+- PC assembly & diagnostics  
+- OS installation & troubleshooting (Windows / Linux)  
+- Network setup & configuration  
+- Basic server setup  
+- Hardware testing & repair  
+- Router configuration & LAN setup  
+- Data backup & recovery  
+
+---
+
+### 🚀 Tech Stack
+
+#### **Languages & Frameworks**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img width="15"/>
@@ -30,7 +42,7 @@ I love working across multiple stacks, from mobile apps to web backends, and alw
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 </div>
 
-#### Databases  
+#### **Databases**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
   <img width="15"/>
@@ -41,7 +53,7 @@ I love working across multiple stacks, from mobile apps to web backends, and alw
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sancho-soft&show_icons=true&theme=dracula&hide_border=false" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sancho-soft&layout=compact&theme=dracula&hide_border=false" height="150"/>
@@ -49,14 +61,14 @@ I love working across multiple stacks, from mobile apps to web backends, and alw
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect With Me
 <div align="left">
-  <a href="YOUR_FACEBOOK_LINK"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="YOUR_INSTAGRAM_LINK"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="YOUR_REDDIT_LINK"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-  <a href="YOUR_TWITTER_LINK"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="YOUR_DISCORD_LINK"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="mailto:aldrenlouielreyes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 ---
