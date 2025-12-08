@@ -62,24 +62,9 @@
 
 ---
 
-# 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sancho-soft&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sancho-soft&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
-</div>
-
----
-
 # 📊 Coding Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sancho-soft&theme=react-dark&hide_border=true" />
-</p>
-
----
-
-# 🐍 3D GitHub Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Sancho-soft/Sancho-soft/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
