@@ -128,13 +128,17 @@ fun_facts:
 
 <div align="center">
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS (using profile-summary-cards - no PAT needed) -->
 <a href="https://github.com/Sancho-soft">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sancho-soft&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9&ring_color=00eaff" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sancho-soft&theme=radical" alt="GitHub Stats" />
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Sancho-soft">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sancho-soft&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sancho-soft&theme=radical" alt="Top Languages by Repo" />
+</a>
+&nbsp;
+<a href="https://github.com/Sancho-soft">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sancho-soft&theme=radical" alt="Top Languages by Commit" />
 </a>
 
 <br/><br/>
@@ -148,7 +152,7 @@ fun_facts:
 
 <!-- CONTRIBUTION GRAPH -->
 <a href="https://github.com/Sancho-soft">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sancho-soft&bg_color=0d1117&color=00eaff&line=ff00ff&point=ffffff&area_color=00eaff&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sancho-soft&theme=radical" alt="Contribution Graph" width="95%" />
 </a>
 
 </div>
@@ -159,7 +163,7 @@ fun_facts:
 
 <div align="center">
   <a href="https://github.com/Sancho-soft">
-    <img src="https://github-trophies.vercel.app/?username=Sancho-soft&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Sancho-soft&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -173,78 +177,88 @@ fun_facts:
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ OqelixOS / OquinOS
-<a href="https://github.com/Sancho-soft/OqelixOS---Operating-System-using-AI-for-testing-V1">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS---Operating-System-using-AI-for-testing-V1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS" />
-</a>
+### 🛡️ [OqelixOS / OquinOS](https://github.com/Sancho-soft/OqelixOS---Operating-System-using-AI-for-testing-V1)
 
 A capability-secure, functional operating system targeting x86-64 UEFI hardware. Built from scratch with dynamic physical paging, higher-half mapping, and custom scheduler.
 
-`C` `Assembly` `UEFI` `x86_64` `Kernel Dev`
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white" />
+  <img src="https://img.shields.io/badge/UEFI-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/x86__64-333333?style=flat-square&logo=intel&logoColor=white" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🖨️ CapaciPrint Development System
-<a href="https://github.com/Sancho-soft/CAPACIPRINT-DEVELOPMENT-SYSTEM">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=CAPACIPRINT-DEVELOPMENT-SYSTEM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="CapaciPrint" />
-</a>
+### 🖨️ [CapaciPrint Development System](https://github.com/Sancho-soft/CAPACIPRINT-DEVELOPMENT-SYSTEM)
 
 Capstone project — a comprehensive print management and development system built with Laravel and Blade templating engine.
 
-`Laravel` `PHP` `Blade` `MySQL` `Capstone`
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blade-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 OqelixOS Linux Distribution v1.0
-<a href="https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development-v1.0">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS-Linux-Distribution-Development-v1.0&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS Linux" />
-</a>
+### 🐧 [OqelixOS Linux Distribution v1.0](https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development-v1.0)
 
 Custom Linux distribution development — building a fully customized desktop environment from the ground up.
 
-`Python` `Linux` `Bash` `Distribution` `WIP`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/WIP-orange?style=flat-square" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 3D Portfolio Website
-<a href="https://github.com/Sancho-soft/3D-PORTFOLIO-WEBSITE">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=3D-PORTFOLIO-WEBSITE&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="3D Portfolio" />
-</a>
+### 🌐 [3D Portfolio Website](https://github.com/Sancho-soft/3D-PORTFOLIO-WEBSITE)
 
 An immersive 3D portfolio website with terminal-style CLI interface and interactive animations.
 
-`JavaScript` `Three.js` `CSS3` `WebGL`
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" />
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 ClientSphere CRM System
-<a href="https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=IT-15-ClientSphere-System-CRM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="ClientSphere CRM" />
-</a>
+### 📊 [ClientSphere CRM System](https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM)
 
 A customer relationship management system with multi-iteration improvements across academic projects.
 
-`HTML` `CSS` `JavaScript` `CRM`
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Carivio - Career Prediction System
-<a href="https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="Carivio" />
-</a>
+### 🤖 [Carivio - Career Prediction System](https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED)
 
 Random Forest-based career pathway & support needs prediction system prototype.
 
-`HTML` `Python` `Machine Learning` `Random Forest`
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+</p>
 
 </td>
 </tr>
@@ -309,30 +323,6 @@ Random Forest-based career pathway & support needs prediction system prototype.
 <a href="https://github.com/Sancho-soft">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </a>
-
-<br/><br/>
-
-### 📈 Profile Summary
-
-<a href="https://github.com/Sancho-soft">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sancho-soft&theme=radical" alt="Profile Summary" width="95%" />
-</a>
-
-<br/>
-
-<table>
-<tr>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sancho-soft&theme=radical" alt="Repos per Language" />
-</td>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sancho-soft&theme=radical" alt="Most Commit Language" />
-</td>
-<td>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sancho-soft&theme=radical" alt="Stats Card" />
-</td>
-</tr>
-</table>
 
 </div>
 
