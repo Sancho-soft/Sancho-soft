@@ -159,12 +159,20 @@ fun_facts:
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <a href="https://github.com/Sancho-soft">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sancho-soft&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-  </a>
+  <img src="https://img.shields.io/badge/Public%20Repos-40-00eaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Repos" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Followers-21-ff00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Stars-3-00eaff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Contributions-214+-ff00ff?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=0d1117" alt="Contributions" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OS%20Developer-🛡️-00eaff?style=for-the-badge&labelColor=0d1117" alt="OS Dev" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Full%20Stack-🚀-ff00ff?style=for-the-badge&labelColor=0d1117" alt="Full Stack" />
 </div>
 
 ---
