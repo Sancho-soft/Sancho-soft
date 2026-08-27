@@ -1,115 +1,128 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00eaff,100:ff00ff&height=240&section=header&text=Sancho%20Soft&fontSize=70&fontColor=ffffff&fontAlignY=35" alt="Capsule Render Banner" />
-  <br />
-  <img src="https://github.com/Sancho-soft/Sancho-soft/blob/main/profile.jpg?raw=true" width="150" style="border-radius: 50%; border: 3px solid #00eaff; box-shadow: 0 0 15px #00eaff;" alt="Sancho-Soft Profile" />
-  <br /><br />
-  <strong>Hi there! I am Aldren Louie Reyes, a passionate Full-Stack Developer, Operating Systems Hobbyist, and PC Systems Specialist.</strong>
+
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00eaff,100:ff00ff&height=220&section=header&text=SANCHO%20SOFT&fontSize=65&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20OS%20Hobbyist%20%7C%20Systems%20Specialist&descSize=18&descAlignY=55&descAlign=50" alt="Header Banner" width="100%" />
+
+<!-- TYPING ANIMATION -->
+<a href="https://github.com/Sancho-soft">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Aldren+Louie+Reyes;%F0%9F%92%BB+Building+from+bare+metal+to+full+stack;%F0%9F%94%A7+Crafting+OS+kernels+%26+web+systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- PROFILE VIEWS & FOLLOWERS -->
+<img src="https://komarev.com/ghpvc/?username=Sancho-soft&label=Profile%20Views&color=00eaff&style=for-the-badge" alt="Profile Views" />
+&nbsp;
+<a href="https://github.com/Sancho-soft?tab=followers">
+  <img src="https://img.shields.io/github/followers/Sancho-soft?label=Followers&style=for-the-badge&color=ff00ff&labelColor=0d1117" alt="Followers" />
+</a>
+&nbsp;
+<a href="https://github.com/Sancho-soft?tab=stars">
+  <img src="https://img.shields.io/github/stars/Sancho-soft?label=Stars&style=for-the-badge&color=00eaff&labelColor=0d1117" alt="Stars" />
+</a>
+
 </div>
 
 ---
 
+<!-- TERMINAL-STYLE GITHUB STATS CARD -->
+<div align="center">
+
 ## 🖥️ System Terminal
 
-<div align="left" style="width: 70%; margin: 0 auto;">
+<a href="https://github.com/Sancho-soft">
+  <img src="https://github-stats-terminal-style-five.vercel.app/api?username=Sancho-soft&theme=synthwave&show_icons=true&border_color=00eaff" alt="Terminal Stats" width="500" />
+</a>
 
-```yaml
-aldren@sancho-soft
-------------------
-OS: OqelixOS / OquinOS ( UEFI / x86_64 )
-Shell: Custom 3D Portfolio CLI
-Editor: VS Code / VIM
-Primary Stack: Flutter | Laravel | Python | Docker
-Hardware: Diagnostics, Routing & Systems Hardening
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   aldren@sancho-soft                                             ║
+║   ─────────────────                                              ║
+║   🧑‍💻 Name      → Aldren Louie Reyes                             ║
+║   🎓 Role      → Full-Stack Developer & OS Hobbyist             ║
+║   🖥️ OS Dev    → OqelixOS / OquinOS (UEFI / x86_64)            ║
+║   🐚 Shell     → Custom 3D Portfolio CLI                        ║
+║   📝 Editor    → VS Code / VIM                                  ║
+║   🛠️ Stack     → Laravel | Flutter | Python | Docker            ║
+║   🔩 Hardware  → Diagnostics, Routing & Systems Hardening       ║
+║   📍 Location  → Philippines 🇵🇭                                 ║
+║   💼 Capstone  → CapaciPrint Development System                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> About Me
 
-<p align="center">
-  <a href="https://www.facebook.com/aldrenlouie.reyes" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/aldren_louie" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/></a>
-  <a href="https://twitter.com/aldren_louie" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter"/></a>
-  <a href="https://discord.com/users/your-discord-id-here" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Discord"/></a>
-  <a href="mailto:reyesaldrenlouie@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
-</p>
+```yaml
+name: "Aldren Louie Reyes"
+alias: "Sancho-Soft"
+bio: "just a hobby or not it depends."
+current_focus:
+  - "🎓 Building CapaciPrint — Capstone Project (Laravel/Blade)"
+  - "🐧 Developing OqelixOS — Custom Linux Distribution v1.0"
+  - "🌐 Creating immersive 3D Portfolio Website"
+  - "📱 Cross-platform apps with Flutter & Dart"
+interests:
+  - "Operating System Development (bare-metal x86_64)"
+  - "Full-Stack Web Applications"
+  - "Systems Administration & Network Engineering"
+  - "Hardware Diagnostics & Troubleshooting"
+  - "AI/ML Integration & Career Prediction Systems"
+fun_facts:
+  - "I build operating systems from scratch for fun 🔧"
+  - "40 public repos and counting 📦"
+  - "21 followers & growing community 🚀"
+```
 
 ---
 
-## 🛠 Tech Stack & Capabilities
+## 🛠️ Tech Arsenal
+
+<div align="center">
 
 ### 💻 Languages & Bare Metal
-[![Languages](https://skillicons.dev/icons?i=c,cpp,py,php,cs,dart,js,html,css&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,php,cs,dart,js,html,css&theme=dark" alt="Languages" />
+</p>
 
 ### 🚀 Frameworks, Libraries & Tools
-[![Frameworks & Tools](https://skillicons.dev/icons?i=flutter,laravel,dotnet,tailwind,docker,arduino,git,vscode&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,tailwind,docker,arduino,git,github,vscode,vim&theme=dark" alt="Frameworks & Tools" />
+</p>
 
 ### 🗄️ Databases & Platforms
-[![Databases](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)](https://skillicons.dev)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,bash&theme=dark" alt="Databases & Platforms" />
+</p>
 
----
+</div>
 
-## 🚀 Featured Projects
+<br/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>🛡️ OqelixOS / OquinOS</h3>
-      <p>A capability-secure, functional operating system targeting x86-64 UEFI hardware. Built from scratch with dynamic physical paging, higher-half mapping, and custom scheduler.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
-        <img src="https://img.shields.io/badge/Assembly-E06F00?style=flat-square&logo=assembly&logoColor=white" alt="Assembly" />
-        <img src="https://img.shields.io/badge/UEFI-0078D7?style=flat-square&logo=windows&logoColor=white" alt="UEFI" />
-      </p>
-      <a href="https://github.com/Sancho-soft/OqelixOS---Operating-System-using-AI-for-testing-V1">View Repository →</a>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h3>✨ 3D Immersive Portfolio</h3>
-      <p>A bespoke, highly interactive developer portfolio utilizing Three.js and GSAP for immersive navigation, fluid transitions, and a built-in CLI simulator.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
-        <img src="https://img.shields.io/badge/GSAP-Green?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      </p>
-      <a href="https://github.com/Sancho-soft/Portfolio-3E1JTD">View Repository →</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="left">
-      <h3>📊 ClientSphere CRM</h3>
-      <p>A highly secure enterprise CRM. Hardened with magic bytes validation, multi-factor authentication (MFA), session IP binding, field-level PII encryption, and sleek GSAP dashboard transitions.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/Security-Red?style=flat-square" alt="Security" />
-      </p>
-      <a href="https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM">View Repository →</a>
-    </td>
-    <td width="50%" valign="top" align="left">
-      <h3>🚨 Sentinel - EIRS</h3>
-      <p>Smart Incident Reporting & Emergency Response System. Real-time logging, user mapping, and rapid dispatch capabilities tailored for community safety.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      </p>
-      <a href="https://github.com/Sancho-soft/SENTINEL---EIRS">View Repository →</a>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
----
-
-## 🔧 PC Hardware & Systems Engineering
-
-<div align="left" style="width: 80%; margin: 0 auto;">
-
-*   🖥️ **PC Building & Optimization** — Designing and assembling high-performance custom rigs, hardware compatibility mapping, cooling setups, and performance benchmarking.
-*   🌐 **Network Diagnostics & Architecture** — Setting up local network infrastructures, router configuration, troubleshooting packet drops, and optimizing router policies.
-*   🛡️ **System Security & Malware Mitigation** — Malware detection, spyware/adware removal, registry repair, system restore strategies, and baseline OS hardening.
-*   🔧 **Hardware Troubleshooting** — Bare-metal component testing, POST failure analysis, power supply testing, and hardware fault diagnostics.
+<!-- DETAILED TECH BADGES -->
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 
 </div>
 
@@ -117,23 +130,228 @@ Hardware: Diagnostics, Routing & Systems Hardening
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Sancho-soft">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Sancho-soft&show_icons=true&bg_color=0d1117&title_color=00eaff&icon_color=00eaff&text_color=ffffff&border_color=00eaff&count_private=true" alt="Sancho-soft's GitHub stats" height="180" />
-  </a>
-  <a href="https://github.com/Sancho-soft">
-    <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=Sancho-soft&layout=compact&bg_color=0d1117&title_color=00eaff&text_color=ffffff&border_color=00eaff" alt="Sancho-soft's Top Languages" height="180" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center"><a href="https://github.com/Sancho-soft"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Sancho-soft&theme=radical&background=0d1117&fire=00eaff&ring=ff00ff&ring_text=ff00ff&currStreakLabel=ffffff&currStreakNum=00eaff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=00eaff" alt="Sancho-soft's Github Streak" height="180" /></a></p>
+<!-- GITHUB STATS -->
+<a href="https://github.com/Sancho-soft">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sancho-soft&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9&ring_color=00eaff" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Sancho-soft">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sancho-soft&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+</a>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sancho-soft&theme=react-dark&hide_border=false&border_color=00eaff" width="100%" alt="Sancho-soft Activity Graph" />
-</p>
+<br/><br/>
+
+<!-- STREAK STATS -->
+<a href="https://github.com/Sancho-soft">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sancho-soft&theme=radical&hide_border=true&background=0d1117&stroke=00eaff&ring=ff00ff&fire=ff00ff&currStreakLabel=00eaff&sideLabels=00eaff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
+</a>
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<a href="https://github.com/Sancho-soft">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sancho-soft&bg_color=0d1117&color=00eaff&line=ff00ff&point=ffffff&area_color=00eaff&area=true&hide_border=true&custom_title=📈%20Contribution%20Graph" alt="Contribution Graph" width="95%" />
+</a>
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/Sancho-soft"><img src="https://komarev.com/ghpvc/?username=Sancho-soft&label=Profile%20Views&color=00eaff&style=for-the-badge" alt="Profile Views" /></a>
-</p>
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/Sancho-soft">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sancho-soft&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ OqelixOS / OquinOS
+<a href="https://github.com/Sancho-soft/OqelixOS---Operating-System-using-AI-for-testing-V1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS---Operating-System-using-AI-for-testing-V1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS" />
+</a>
+
+A capability-secure, functional operating system targeting x86-64 UEFI hardware. Built from scratch with dynamic physical paging, higher-half mapping, and custom scheduler.
+
+`C` `Assembly` `UEFI` `x86_64` `Kernel Dev`
+
+</td>
+<td width="50%" valign="top">
+
+### 🖨️ CapaciPrint Development System
+<a href="https://github.com/Sancho-soft/CAPACIPRINT-DEVELOPMENT-SYSTEM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=CAPACIPRINT-DEVELOPMENT-SYSTEM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="CapaciPrint" />
+</a>
+
+Capstone project — a comprehensive print management and development system built with Laravel and Blade templating engine.
+
+`Laravel` `PHP` `Blade` `MySQL` `Capstone`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐧 OqelixOS Linux Distribution v1.0
+<a href="https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development-v1.0">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS-Linux-Distribution-Development-v1.0&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS Linux" />
+</a>
+
+Custom Linux distribution development — building a fully customized desktop environment from the ground up.
+
+`Python` `Linux` `Bash` `Distribution` `WIP`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 3D Portfolio Website
+<a href="https://github.com/Sancho-soft/3D-PORTFOLIO-WEBSITE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=3D-PORTFOLIO-WEBSITE&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="3D Portfolio" />
+</a>
+
+An immersive 3D portfolio website with terminal-style CLI interface and interactive animations.
+
+`JavaScript` `Three.js` `CSS3` `WebGL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 ClientSphere CRM System
+<a href="https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=IT-15-ClientSphere-System-CRM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="ClientSphere CRM" />
+</a>
+
+A customer relationship management system with multi-iteration improvements across academic projects.
+
+`HTML` `CSS` `JavaScript` `CRM`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Carivio - Career Prediction System
+<a href="https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="Carivio" />
+</a>
+
+Random Forest-based career pathway & support needs prediction system prototype.
+
+`HTML` `Python` `Machine Learning` `Random Forest`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+<br/>
+
+<a href="https://www.facebook.com/aldrenlouie.reyes" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
+&nbsp;
+<a href="https://www.instagram.com/aldren_louie" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+&nbsp;
+<a href="https://twitter.com/aldren_louie" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+</a>
+&nbsp;
+<a href="https://discord.com/users/your-discord-id-here" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+&nbsp;
+<a href="mailto:reyesaldrenlouie@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Sancho-soft" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<br/><br/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sancho-soft/Sancho-soft/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sancho-soft/Sancho-soft/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Sancho-soft/Sancho-soft/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Random Dev Quote
+<br/>
+
+<a href="https://github.com/Sancho-soft">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</a>
+
+<br/><br/>
+
+### 📈 Profile Summary
+
+<a href="https://github.com/Sancho-soft">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sancho-soft&theme=radical" alt="Profile Summary" width="95%" />
+</a>
+
+<br/>
+
+<table>
+<tr>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sancho-soft&theme=radical" alt="Repos per Language" />
+</td>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sancho-soft&theme=radical" alt="Most Commit Language" />
+</td>
+<td>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sancho-soft&theme=radical" alt="Stats Card" />
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00eaff,100:ff00ff&height=120&section=footer" alt="Footer" width="100%" />
+
+<br/>
+
+**⭐ Star my repos if you find them interesting! Let's build something amazing together. ⭐**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-ff00ff?style=for-the-badge&labelColor=0d1117" alt="Made with love" />
+
+</div>
