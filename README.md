@@ -25,14 +25,10 @@
 
 ---
 
-<!-- TERMINAL-STYLE GITHUB STATS CARD -->
+<!-- TERMINAL-STYLE SECTION -->
 <div align="center">
 
 ## 🖥️ System Terminal
-
-<a href="https://github.com/Sancho-soft">
-  <img src="https://github-stats-terminal-style-five.vercel.app/api?username=Sancho-soft&theme=synthwave&show_icons=true&border_color=00eaff" alt="Terminal Stats" width="500" />
-</a>
 
 </div>
 
@@ -134,18 +130,18 @@ fun_facts:
 
 <!-- GITHUB STATS -->
 <a href="https://github.com/Sancho-soft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sancho-soft&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9&ring_color=00eaff" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sancho-soft&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9&ring_color=00eaff" alt="GitHub Stats" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/Sancho-soft">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sancho-soft&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sancho-soft&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&text_color=c9d1d9&langs_count=10" alt="Top Languages" />
 </a>
 
 <br/><br/>
 
 <!-- STREAK STATS -->
 <a href="https://github.com/Sancho-soft">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sancho-soft&theme=radical&hide_border=true&background=0d1117&stroke=00eaff&ring=ff00ff&fire=ff00ff&currStreakLabel=00eaff&sideLabels=00eaff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sancho-soft&theme=radical&hide_border=true&background=0d1117&stroke=00eaff&ring=ff00ff&fire=ff00ff&currStreakLabel=00eaff&sideLabels=00eaff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
 </a>
 
 <br/><br/>
@@ -163,7 +159,7 @@ fun_facts:
 
 <div align="center">
   <a href="https://github.com/Sancho-soft">
-    <img src="https://github-profile-trophy.vercel.app/?username=Sancho-soft&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+    <img src="https://github-trophies.vercel.app/?username=Sancho-soft&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
   </a>
 </div>
 
@@ -179,7 +175,7 @@ fun_facts:
 
 ### 🛡️ OqelixOS / OquinOS
 <a href="https://github.com/Sancho-soft/OqelixOS---Operating-System-using-AI-for-testing-V1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS---Operating-System-using-AI-for-testing-V1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS---Operating-System-using-AI-for-testing-V1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS" />
 </a>
 
 A capability-secure, functional operating system targeting x86-64 UEFI hardware. Built from scratch with dynamic physical paging, higher-half mapping, and custom scheduler.
@@ -191,7 +187,7 @@ A capability-secure, functional operating system targeting x86-64 UEFI hardware.
 
 ### 🖨️ CapaciPrint Development System
 <a href="https://github.com/Sancho-soft/CAPACIPRINT-DEVELOPMENT-SYSTEM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=CAPACIPRINT-DEVELOPMENT-SYSTEM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="CapaciPrint" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=CAPACIPRINT-DEVELOPMENT-SYSTEM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="CapaciPrint" />
 </a>
 
 Capstone project — a comprehensive print management and development system built with Laravel and Blade templating engine.
@@ -205,7 +201,7 @@ Capstone project — a comprehensive print management and development system bui
 
 ### 🐧 OqelixOS Linux Distribution v1.0
 <a href="https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development-v1.0">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS-Linux-Distribution-Development-v1.0&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS Linux" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=OqelixOS-Linux-Distribution-Development-v1.0&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="OqelixOS Linux" />
 </a>
 
 Custom Linux distribution development — building a fully customized desktop environment from the ground up.
@@ -217,7 +213,7 @@ Custom Linux distribution development — building a fully customized desktop en
 
 ### 🌐 3D Portfolio Website
 <a href="https://github.com/Sancho-soft/3D-PORTFOLIO-WEBSITE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=3D-PORTFOLIO-WEBSITE&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="3D Portfolio" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=3D-PORTFOLIO-WEBSITE&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="3D Portfolio" />
 </a>
 
 An immersive 3D portfolio website with terminal-style CLI interface and interactive animations.
@@ -231,7 +227,7 @@ An immersive 3D portfolio website with terminal-style CLI interface and interact
 
 ### 📊 ClientSphere CRM System
 <a href="https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=IT-15-ClientSphere-System-CRM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="ClientSphere CRM" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=IT-15-ClientSphere-System-CRM&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="ClientSphere CRM" />
 </a>
 
 A customer relationship management system with multi-iteration improvements across academic projects.
@@ -243,7 +239,7 @@ A customer relationship management system with multi-iteration improvements acro
 
 ### 🤖 Carivio - Career Prediction System
 <a href="https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sancho-soft&repo=-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="Carivio" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sancho-soft&repo=-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED&theme=radical&hide_border=true&bg_color=0d1117&title_color=00eaff&icon_color=ff00ff&text_color=c9d1d9" alt="Carivio" />
 </a>
 
 Random Forest-based career pathway & support needs prediction system prototype.
