@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://github.com/Sancho-soft">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Aldren+Louie+Reyes;%F0%9F%92%BB+Building+from+bare+metal+to+full+stack;%F0%9F%94%A7+Crafting+OS+kernels+%26+web+systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00EAFF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Aldren+Louie+Reyes;%F0%9F%92%BB+Bored+as+always+in+life;%F0%9F%94%A7" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -66,7 +66,7 @@ alias: "Sancho-Soft"
 bio: "just a hobby or not it depends."
 current_focus:
   - "🎓 Building CapaciPrint — Capstone Project (Laravel/Blade)"
-  - "🐧 Developing OqelixOS — Custom Linux Distribution v1.0"
+  - "🐧 Developing OqelixOS — Custom Linux Distribution"
   - "🌐 Creating immersive 3D Portfolio Website"
   - "📱 Cross-platform apps with Flutter & Dart"
 interests:
@@ -76,9 +76,9 @@ interests:
   - "Hardware Diagnostics & Troubleshooting"
   - "AI/ML Integration & Career Prediction Systems"
 fun_facts:
-  - "I build operating systems from scratch for fun 🔧"
-  - "40 public repos and counting 📦"
-  - "21 followers & growing community 🚀"
+  - "I build operating systems from scratch for fun"
+  - "40 public repos and counting"
+  - "21 followers & growing community"
 ```
 
 ---
@@ -215,7 +215,7 @@ Capstone project — a comprehensive print management and development system bui
 <tr>
 <td width="50%" valign="top">
 
-### 🐧 [OqelixOS Linux Distribution v1.0](https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development-v1.0)
+### 🐧 [OqelixOS Linux Distribution](https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development-v1.0)
 
 Custom Linux distribution development — building a fully customized desktop environment from the ground up.
 
@@ -342,7 +342,7 @@ Random Forest-based career pathway & support needs prediction system prototype.
 
 <br/>
 
-**⭐ Star my repos if you find them interesting! Let's build something amazing together. ⭐**
+**⭐ idk what to do. ⭐**
 
 <br/>
 
