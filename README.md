@@ -149,13 +149,11 @@ Currently finishing my capstone **CapaciPrint**, developing **OqelixOS** (UEFI k
 <h2><img src="assets/icons/award.svg" width="20" height="20" align="absmiddle" alt="" /> Highlights</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Public%20Repos-40-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Repos" />
+  <img src="https://img.shields.io/badge/Public%20Repos-47-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Repos" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Followers-21-30363d?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Followers" />
+  <img src="https://img.shields.io/badge/Followers-23-30363d?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Stars-3-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Contributions-214+-30363d?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=161b22" alt="Contributions" />
+  <img src="https://img.shields.io/badge/Stars-4-2f81f7?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22" alt="Stars" />
   &nbsp;
   <img src="https://img.shields.io/badge/Focus-OS%20Dev%20%26%20Full--Stack-2f81f7?style=for-the-badge&labelColor=161b22" alt="OS Dev and Full-Stack" />
 </div>
@@ -184,7 +182,7 @@ A capability-secure, functional operating system targeting x86-64 UEFI hardware.
 
 <h3><img src="assets/icons/printer.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/CAPACIPRINT-DEVELOPMENT-SYSTEM">CapaciPrint Development System</a></h3>
 
-Capstone project — a comprehensive print management and development system built with Laravel and the Blade templating engine.
+Capstone full-system integration — a print management system built with Laravel, Blade, and a companion API.
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
@@ -198,9 +196,23 @@ Capstone project — a comprehensive print management and development system bui
 <tr>
 <td width="50%" valign="top">
 
-<h3><img src="assets/icons/terminal.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development-v1.0">OqelixOS Linux Distribution</a></h3>
+<h3><img src="assets/icons/message-square.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/MAIKCORD---A-Alternative-Inspired-Teamspeak-Discord-Application">MAIKCORD</a></h3>
 
-Custom Linux distribution development — building a fully customized desktop environment from the ground up.
+A TeamSpeak and Discord-inspired communication application built across web and C# backend services.
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><img src="assets/icons/terminal.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/OqelixOS-Linux-Distribution-Development">OqelixOS Linux Distribution</a></h3>
+
+Custom Linux distribution development — building a tailored desktop environment from the ground up.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -210,17 +222,30 @@ Custom Linux distribution development — building a fully customized desktop en
 </p>
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-<h3><img src="assets/icons/box.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/3D-PORTFOLIO-WEBSITE">3D Portfolio Website</a></h3>
+<h3><img src="assets/icons/smartphone.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/Keitask---Student-Progress-Tracker">Keitask — Student Progress Tracker</a></h3>
 
-An immersive 3D portfolio website with a terminal-style CLI interface and interactive animations.
+Cross-platform Flutter student progress tracker with Firebase push and local notifications.
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Three.js-161B22?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white" alt="WebGL" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><img src="assets/icons/gamepad.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/RE-LEARN-THE-BASICS">Re-Learn The Basics</a></h3>
+
+Elementary math educational game built with Godot 4, featuring challenge levels, stars, and collectible stickers.
+
+<p>
+  <img src="https://img.shields.io/badge/Godot%204-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4" />
+  <img src="https://img.shields.io/badge/GDScript-355570?style=flat-square&logo=godotengine&logoColor=white" alt="GDScript" />
 </p>
 
 </td>
@@ -228,10 +253,13 @@ An immersive 3D portfolio website with a terminal-style CLI interface and intera
 </table>
 
 <details>
-  <summary><strong>Earlier &amp; archived projects</strong></summary>
+  <summary><strong>More &amp; earlier projects</strong></summary>
 
-  - **[ClientSphere CRM System](https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM)** — customer relationship management system with multi-iteration improvements across academic projects (`HTML5`, `CSS3`, `JavaScript`).
-  - **[Carivio - Career Prediction System](https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED)** — Random Forest-based career pathway and support needs prediction prototype, discontinued (`HTML5`, `Python`, `ML`).
+  - **[3D Portfolio Website](https://github.com/Sancho-soft/3D-PORTFOLIO-WEBSITE)** — interactive 3D portfolio site with terminal-style CLI (`JavaScript`, `Three.js`, `WebGL`).
+  - **[SENTINEL — EIRS](https://github.com/Sancho-soft/SENTINEL---EIRS)** — Smart Incident Reporting &amp; Response System (`Flutter`, `Dart`).
+  - **[API for CapaciPrint](https://github.com/Sancho-soft/API-FOR-CAPACIPRINT----DOCUMENTARY-AND-TESTING)** — companion API documentation &amp; testing repo for CapaciPrint.
+  - **[ClientSphere CRM System](https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM)** — customer relationship management system iterated across academic projects (`HTML5`, `CSS3`, `JavaScript`).
+  - **[Carivio — Career Prediction System](https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED)** — Random Forest career pathway prediction prototype, discontinued (`HTML5`, `Python`, `ML`).
 
 </details>
 
