@@ -46,28 +46,47 @@ I'm **Aldren Louie Reyes** (`Sancho-Soft`), a full-stack developer based in the 
 <h3><img src="assets/icons/code.svg" width="18" height="18" align="absmiddle" alt="" /> Languages &amp; Bare Metal</h3>
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cphp%2Ccs%2Cdart%2Cjs%2Chtml%2Ccss&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cphp%2Ccs%2Cdart%2Cjs%2Chtml%2Ccss&theme=light" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,php,cs,dart,js,html,css&theme=dark" alt="Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Ccs%2Cjava%2Cpy%2Cjs%2Cphp%2Cdart%2Cr%2Crust%2Csolidity%2Chtml%2Ccss%2Cpowershell&perline=14&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Ccs%2Cjava%2Cpy%2Cjs%2Cphp%2Cdart%2Cr%2Crust%2Csolidity%2Chtml%2Ccss%2Cpowershell&perline=14&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,php,dart,r,rust,solidity,html,css,powershell&perline=14&theme=dark" alt="Languages and Bare Metal" />
   </picture>
 </p>
 
 <h3><img src="assets/icons/wrench.svg" width="18" height="18" align="absmiddle" alt="" /> Frameworks, Libraries &amp; Tools</h3>
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Claravel%2Cdotnet%2Ctailwind%2Cdocker%2Carduino%2Cgit%2Cgithub%2Cvscode%2Cvim&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Claravel%2Cdotnet%2Ctailwind%2Cdocker%2Carduino%2Cgit%2Cgithub%2Cvscode%2Cvim&theme=light" />
-    <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,tailwind,docker,arduino,git,github,vscode,vim&theme=dark" alt="Frameworks and Tools" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel%2Cdotnet%2Cflutter%2Ctailwind%2Cnodejs%2Cexpress%2Cfastapi%2Cnextjs%2Cnestjs%2Cvite%2Cnpm%2Cunity%2Cpostman%2Cdocker%2Carduino%2Cgit%2Cgithub%2Cvscode%2Cvim%2Cpr%2Cps%2Cae&perline=11&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel%2Cdotnet%2Cflutter%2Ctailwind%2Cnodejs%2Cexpress%2Cfastapi%2Cnextjs%2Cnestjs%2Cvite%2Cnpm%2Cunity%2Cpostman%2Cdocker%2Carduino%2Cgit%2Cgithub%2Cvscode%2Cvim%2Cpr%2Cps%2Cae&perline=11&theme=light" />
+    <img src="https://skillicons.dev/icons?i=laravel,dotnet,flutter,tailwind,nodejs,express,fastapi,nextjs,nestjs,vite,npm,unity,postman,docker,arduino,git,github,vscode,vim,pr,ps,ae&perline=11&theme=dark" alt="Frameworks, Libraries and Tools" />
   </picture>
 </p>
 
-<h3><img src="assets/icons/database.svg" width="18" height="18" align="absmiddle" alt="" /> Databases &amp; Platforms</h3>
+<h3><img src="assets/icons/database.svg" width="18" height="18" align="absmiddle" alt="" /> Cloud, Databases &amp; Platforms</h3>
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Csqlite%2Clinux%2Cbash&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Csqlite%2Clinux%2Cbash&theme=light" />
-    <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,bash&theme=dark" alt="Databases and Platforms" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Ccloudflare%2Cvercel%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql%2Csqlite%2Clinux%2Cbash%2Cwindows&perline=12&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=aws%2Cgcp%2Ccloudflare%2Cvercel%2Cfirebase%2Csupabase%2Cpostgres%2Cmysql%2Csqlite%2Clinux%2Cbash%2Cwindows&perline=12&theme=light" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,cloudflare,vercel,firebase,supabase,postgres,mysql,sqlite,linux,bash,windows&perline=12&theme=dark" alt="Cloud, Databases and Platforms" />
   </picture>
+</p>
+
+<h3><img src="assets/icons/cpu.svg" width="18" height="18" align="absmiddle" alt="" /> Additional Tech, Hardware &amp; Platforms</h3>
+<p>
+  <img src="https://img.shields.io/badge/Assembly%20Script-161B22?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Script" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-30363D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
+  <img src="https://img.shields.io/badge/OpenGL-161B22?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/AMD-161B22?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
+  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+  <img src="https://img.shields.io/badge/Itch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch" />
+  <img src="https://img.shields.io/badge/Steam-161B22?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  <img src="https://img.shields.io/badge/Ubisoft-161B22?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft" />
+  <img src="https://img.shields.io/badge/EA-161B22?style=for-the-badge&logo=ea&logoColor=white" alt="EA" />
+  <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games" />
+  <img src="https://img.shields.io/badge/SideQuest-161B22?style=for-the-badge&logo=sidequest&logoColor=white" alt="SideQuest" />
 </p>
 
 </div>
