@@ -1,12 +1,12 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img src="assets/banner-light.svg" alt="Sancho-Soft — Aldren Louie Reyes, Full-Stack Developer, OS Hobbyist, Systems Specialist" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg" />
+  <img src="assets/terminal-light.svg" alt="Sancho-Soft — Aldren Louie Reyes terminal profile card with ASCII portrait and system info" width="100%" />
 </picture>
 
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=Sancho-soft&label=Profile%20Views&color=2f81f7&labelColor=161b22&style=for-the-badge" alt="Profile Views" />
 &nbsp;
@@ -24,16 +24,11 @@
 
 <h2><img src="assets/icons/user.svg" width="20" height="20" align="absmiddle" alt="" /> About Me</h2>
 
-<img align="right" width="196" src="assets/portrait.png" alt="Aldren Louie Reyes" />
+<img align="right" width="150" src="assets/portrait.png" alt="Aldren Louie Reyes" />
 
 I'm **Aldren Louie Reyes** (`Sancho-Soft`), a full-stack developer based in the **Philippines** who builds operating systems on the side. I write web and mobile applications with **Laravel** and **Flutter**, and bare-metal **x86-64** code in **C**, **Assembly**, and **UEFI**, backed by hands-on experience in hardware diagnostics, routing, and systems hardening.
 
-- **Role:** Full-Stack Developer & OS Hobbyist
-- **OS Dev:** OqelixOS / OquinOS (`x86-64` / `UEFI`)
-- **Capstone:** CapaciPrint Development System (`Laravel` / `Blade`)
-- **In Progress:** OqelixOS Linux Distribution & 3D Portfolio Website
-- **Editor:** VS Code / Vim
-- **Hardware:** Diagnostics, Routing & Systems Hardening
+Currently finishing my capstone **CapaciPrint**, developing **OqelixOS** (UEFI kernel & Linux distribution), and building an interactive **3D Portfolio Website**.
 
 <br clear="right" />
 
