@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 52" width="300" height="52" role="img" aria-label="06 Connect">
+  <path d="M9,1 L291,1 L299,9 L299,43 L291,51 L9,51 L1,43 L1,9 Z" fill="#F6F8FB" stroke="#CFD9E5" stroke-width="1.2"/>
+  <rect x="1" y="12" width="3.5" height="28" fill="#B4690E"/>
+  <text x="20" y="32" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="700" fill="#B4690E">06</text>
+  <text x="54" y="32" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#151B23">Connect</text>
+  <text x="280" y="32" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15" fill="#1D4ED8">&gt;</text>
+</svg>

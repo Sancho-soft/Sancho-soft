@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 228" width="1400" height="228" role="img" aria-label="Full stack architecture flow from hardware and UEFI through kernel, backend API, and client UI">
+  <style>
+    @keyframes flow-light { 0%{transform:translateX(0);opacity:0} 15%{opacity:1} 85%{opacity:1} 100%{transform:translateX(1320px);opacity:0} }
+    .pulse { animation: flow-light 4.2s linear infinite; }
+    @media (prefers-reduced-motion: reduce) { .pulse { animation: none; opacity: 0; } }
+  </style>
+  <path d="M16,2 L1384,2 L1398,16 L1398,212 L1384,226 L16,226 L2,212 L2,16 Z" fill="#F6F8FB" stroke="#CFD9E5" stroke-width="1.5"/>
+  <path d="M44,42 L324,42 L336,54 L336,174 L324,186 L44,186 L32,174 L32,54 Z" fill="#FFFFFF" stroke="#B4690E" stroke-width="1.5"/>
+  <rect x="32" y="42" width="304" height="4" fill="#B4690E"/>
+  <text x="54" y="78" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#B4690E">LAYER 01</text>
+  <text x="54" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#151B23">HARDWARE &amp; UEFI</text>
+  <text x="54" y="148" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#556274">Diagnostics · Routing · Boot</text>
+  <path d="M388,42 L668,42 L680,54 L680,174 L668,186 L388,186 L376,174 L376,54 Z" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="1.5"/>
+  <rect x="376" y="42" width="304" height="4" fill="#1D4ED8"/>
+  <text x="398" y="78" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#1D4ED8">LAYER 02</text>
+  <text x="398" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#151B23">KERNEL &amp; OS</text>
+  <text x="398" y="148" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#556274">C · Assembly · OqelixOS</text>
+  <path d="M732,42 L1012,42 L1024,54 L1024,174 L1012,186 L732,186 L720,174 L720,54 Z" fill="#FFFFFF" stroke="#B4690E" stroke-width="1.5"/>
+  <rect x="720" y="42" width="304" height="4" fill="#B4690E"/>
+  <text x="742" y="78" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#B4690E">LAYER 03</text>
+  <text x="742" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#151B23">BACKEND &amp; DATA</text>
+  <text x="742" y="148" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#556274">Laravel · Node · MySQL · Postgres</text>
+  <path d="M1076,42 L1356,42 L1368,54 L1368,174 L1356,186 L1076,186 L1064,174 L1064,54 Z" fill="#FFFFFF" stroke="#1D4ED8" stroke-width="1.5"/>
+  <rect x="1064" y="42" width="304" height="4" fill="#1D4ED8"/>
+  <text x="1086" y="78" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#1D4ED8">LAYER 04</text>
+  <text x="1086" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="800" fill="#151B23">CLIENT &amp; 3D</text>
+  <text x="1086" y="148" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#556274">Flutter · Next.js · Three.js · Godot</text>
+  <line x1="336" y1="114" x2="376" y2="114" stroke="#CFD9E5" stroke-width="2"/>
+  <polygon points="376,114 368,109 368,119" fill="#B4690E"/>
+  <line x1="680" y1="114" x2="720" y2="114" stroke="#CFD9E5" stroke-width="2"/>
+  <polygon points="720,114 712,109 712,119" fill="#B4690E"/>
+  <line x1="1024" y1="114" x2="1064" y2="114" stroke="#CFD9E5" stroke-width="2"/>
+  <polygon points="1064,114 1056,109 1056,119" fill="#B4690E"/>
+  <line x1="32" y1="204" x2="1368" y2="204" stroke="#CFD9E5" stroke-width="1"/>
+  <circle class="pulse" cx="32" cy="204" r="4" fill="#B4690E"/>
+</svg>

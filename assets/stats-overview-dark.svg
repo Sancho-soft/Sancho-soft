@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 284" width="1400" height="284" role="img" aria-label="Self-hosted GitHub statistics and language breakdown for Sancho-soft">
+  <path d="M16,2 L1384,2 L1398,16 L1398,268 L1384,282 L16,282 L2,268 L2,16 Z" fill="#111722" stroke="#263244" stroke-width="1.5"/>
+  <text x="40" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#E5A93C">47</text>
+  <text x="40" y="96" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8A99AD">PUBLIC REPOSITORIES</text>
+  <text x="375" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#60A5FA">23</text>
+  <text x="375" y="96" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8A99AD">GITHUB FOLLOWERS</text>
+  <text x="710" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#E5A93C">4</text>
+  <text x="710" y="96" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8A99AD">STARS RECEIVED</text>
+  <text x="1045" y="70" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="800" fill="#60A5FA">2024 – 2026</text>
+  <text x="1045" y="96" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.5" fill="#8A99AD">ACTIVE WINDOW</text>
+  <line x1="40" y1="122" x2="1360" y2="122" stroke="#263244" stroke-width="1"/>
+  <text x="40" y="150" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12.5" font-weight="700" letter-spacing="1.5" fill="#8A99AD">LANGUAGE DISTRIBUTION ACROSS NON-FORK REPOSITORIES</text>
+  <g><rect x="40" y="164" width="409" height="16" fill="#E34C26"/><rect x="449" y="164" width="242" height="16" fill="#E5A93C"/><rect x="691" y="164" width="203" height="16" fill="#3D6117"/><rect x="894" y="164" width="201" height="16" fill="#60A5FA"/><rect x="1095" y="164" width="59" height="16" fill="#00B4AB"/><rect x="1154" y="164" width="55" height="16" fill="#8B5CF6"/><rect x="1209" y="164" width="41" height="16" fill="#3572A5"/><rect x="1250" y="164" width="110" height="16" fill="#8A99AD"/></g>
+  <rect x="40" y="205" width="12" height="12" rx="2" fill="#E34C26"/>
+  <text x="62" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">HTML</text>
+  <text x="330" y="216" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">31.0%</text>
+  <rect x="375" y="205" width="12" height="12" rx="2" fill="#E5A93C"/>
+  <text x="397" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">Blade</text>
+  <text x="665" y="216" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">18.3%</text>
+  <rect x="710" y="205" width="12" height="12" rx="2" fill="#3D6117"/>
+  <text x="732" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">TeX</text>
+  <text x="1000" y="216" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">15.4%</text>
+  <rect x="1045" y="205" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <text x="1067" y="216" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">PHP</text>
+  <text x="1335" y="216" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">15.2%</text>
+  <rect x="40" y="239" width="12" height="12" rx="2" fill="#00B4AB"/>
+  <text x="62" y="250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">Dart</text>
+  <text x="330" y="250" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">4.5%</text>
+  <rect x="375" y="239" width="12" height="12" rx="2" fill="#8B5CF6"/>
+  <text x="397" y="250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">C#</text>
+  <text x="665" y="250" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">4.2%</text>
+  <rect x="710" y="239" width="12" height="12" rx="2" fill="#3572A5"/>
+  <text x="732" y="250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">Python</text>
+  <text x="1000" y="250" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">3.1%</text>
+  <rect x="1045" y="239" width="12" height="12" rx="2" fill="#8A99AD"/>
+  <text x="1067" y="250" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#EDF2F7">Other (GDScript, C++, CSS, C)</text>
+  <text x="1335" y="250" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD">8.3%</text>
+</svg>

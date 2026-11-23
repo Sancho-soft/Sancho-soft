@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 116" width="440" height="116" role="img" aria-label="X / Twitter — @aldren_louie">
+  <path d="M13,1 L427,1 L439,13 L439,103 L427,115 L13,115 L1,103 L1,13 Z" fill="#F6F8FB" stroke="#CFD9E5" stroke-width="1.4"/>
+  <rect x="1" y="20" width="4" height="76" fill="#1D4ED8"/>
+  <path d="M34,30 L74,30 L82,38 L82,78 L74,86 L34,86 L26,78 L26,38 Z" fill="rgba(29, 78, 216, 0.10)" stroke="#1D4ED8" stroke-width="1.2"/>
+  <g transform="translate(42, 46) scale(1)"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" fill="#1D4ED8"/></g>
+  <text x="104" y="43" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" letter-spacing="1.8" fill="#1D4ED8">SOCIAL</text>
+  <text x="104" y="69" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="800" fill="#151B23">X / Twitter</text>
+  <text x="104" y="92" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" fill="#556274">@aldren_louie</text>
+  <text x="414" y="64" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="18" fill="#1D4ED8">&gt;</text>
+</svg>

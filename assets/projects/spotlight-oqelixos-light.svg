@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 296" width="1400" height="296" role="img" aria-label="OqelixOS / OquinOS spotlight project card">
+  <path d="M18,2 L1382,2 L1398,18 L1398,278 L1382,294 L18,294 L2,278 L2,18 Z" fill="#F6F8FB" stroke="#B4690E" stroke-width="1.75"/>
+  <rect x="2" y="2" width="6" height="292" fill="#B4690E"/>
+  <text x="40" y="46" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13.5" font-weight="700" letter-spacing="2.5" fill="#B4690E">FLAGSHIP SYSTEM  //  X86-64 UEFI OS</text>
+  <text x="40" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="38" font-weight="800" fill="#151B23">OqelixOS / OquinOS</text>
+  <text x="40" y="140" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#556274">A capability-secure, functional operating system targeting x86-64 UEFI hardware.</text>
+  <text x="40" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#556274">Built from scratch with dynamic physical paging, higher-half mapping, and a custom scheduler.</text>
+
+  <!-- Tech pills -->
+  <g font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600">
+    <rect x="40" y="212" width="62" height="30" rx="4" fill="rgba(180, 105, 14, 0.10)" stroke="#B4690E"/><text x="71" y="232" text-anchor="middle" fill="#B4690E">C</text>
+    <rect x="114" y="212" width="110" height="30" rx="4" fill="rgba(29, 78, 216, 0.10)" stroke="#1D4ED8"/><text x="169" y="232" text-anchor="middle" fill="#1D4ED8">Assembly</text>
+    <rect x="236" y="212" width="84" height="30" rx="4" fill="#FFFFFF" stroke="#CFD9E5"/><text x="278" y="232" text-anchor="middle" fill="#151B23">UEFI</text>
+    <rect x="332" y="212" width="96" height="30" rx="4" fill="#FFFFFF" stroke="#CFD9E5"/><text x="380" y="232" text-anchor="middle" fill="#151B23">x86-64</text>
+  </g>
+
+  <!-- Right mini memory schematic -->
+  <g transform="translate(880, 38)">
+    <path d="M10,0 L470,0 L480,10 L480,210 L470,220 L10,220 L0,210 L0,10 Z" fill="#FFFFFF" stroke="#CFD9E5" stroke-width="1.2"/>
+    <text x="20" y="28" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="12" font-weight="700" fill="#1D4ED8">HIGHER-HALF KERNEL MAP</text>
+    <rect x="20" y="46" width="440" height="44" fill="rgba(180, 105, 14, 0.10)" stroke="#B4690E" stroke-width="1.2"/>
+    <text x="34" y="73" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#B4690E">0xFFFFFFFF80000000  KERNEL ELF + SCHEDULER</text>
+    <rect x="20" y="100" width="440" height="42" fill="#F6F8FB" stroke="#CFD9E5"/>
+    <text x="34" y="126" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#151B23">0xFFFF800000000000  PHYSICAL DIRECT MAP (HHDM)</text>
+    <rect x="20" y="152" width="440" height="42" fill="#F6F8FB" stroke="#CFD9E5" stroke-dasharray="4 3"/>
+    <text x="34" y="178" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#556274">0x0000000000000000  USER + UEFI IDENTITY</text>
+  </g>
+</svg>

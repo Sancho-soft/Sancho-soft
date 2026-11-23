@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 286" width="700" height="286" role="img" aria-label="OqelixOS Linux — Custom Linux distribution and desktop">
+  <path d="M15.5,1.5 L684.5,1.5 L698.5,15.5 L698.5,270.5 L684.5,284.5 L15.5,284.5 L1.5,270.5 L1.5,15.5 Z" fill="#F6F8FB" stroke="#CFD9E5" stroke-width="1.5"/>
+  <rect x="1.5" y="1.5" width="697" height="4" fill="#B4690E"/>
+  <text x="32" y="44" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#B4690E">LINUX DISTRO  //  WIP</text>
+  <text x="668" y="44" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#556274">SYSTEMS</text>
+  <text x="32" y="92" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="27" font-weight="800" fill="#151B23">OqelixOS Linux</text>
+  <text x="32" y="138" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#556274">Custom Linux distribution and desktop</text>
+  <text x="32" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#556274">environment built from the ground up.</text>
+  <line x1="32" y1="198" x2="668" y2="198" stroke="#CFD9E5" stroke-width="1"/>
+  <rect x="32" y="220" width="81" height="30" rx="4" fill="#FFFFFF" stroke="#CFD9E5"/><text x="72.5" y="240" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#151B23">Python</text><rect x="123" y="220" width="71.5" height="30" rx="4" fill="#FFFFFF" stroke="#CFD9E5"/><text x="158.75" y="240" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#151B23">Linux</text><rect x="204.5" y="220" width="62" height="30" rx="4" fill="#FFFFFF" stroke="#CFD9E5"/><text x="235.5" y="240" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="600" fill="#151B23">Bash</text>
+  <rect x="614" y="220" width="54" height="30" rx="4" fill="rgba(180, 105, 14, 0.10)" stroke="#B4690E"/>
+  <text x="641" y="240" text-anchor="middle" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" font-weight="700" fill="#B4690E">REPO</text>
+</svg>

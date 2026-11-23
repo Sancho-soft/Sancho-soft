@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 444" width="1400" height="444" role="img" aria-label="sancho_profile.h C struct defining Aldren Louie Reyes engineering stack">
+  <style>
+    @keyframes blink-dark { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    .cur { animation: blink-dark 1s steps(1) infinite; }
+    @media (prefers-reduced-motion: reduce) { .cur { animation: none; } }
+  </style>
+  <path d="M16,2 L1384,2 L1398,16 L1398,428 L1384,442 L16,442 L2,428 L2,16 Z" fill="#111722" stroke="#263244" stroke-width="1.5"/>
+  <!-- Editor top bar -->
+  <path d="M16,2 L1384,2 L1398,16 L1398,48 L2,48 L2,16 Z" fill="#161E2B" stroke="#263244" stroke-width="1"/>
+  <rect x="26" y="18" width="12" height="12" rx="2" fill="#E5A93C"/>
+  <rect x="46" y="18" width="12" height="12" rx="2" fill="#60A5FA"/>
+  <rect x="66" y="18" width="12" height="12" rx="2" fill="#263244"/>
+  <text x="102" y="30" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" font-weight="600" fill="#EDF2F7">sancho_profile.h</text>
+  <text x="1370" y="30" text-anchor="end" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#8A99AD">UTF-8  ·  C11  ·  x86-64</text>
+
+  <text x="36" y="98" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">01</text>
+  <text x="82" y="98" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve"><tspan fill="#60A5FA">#include</tspan> <tspan fill="#E5A93C">&lt;sancho/engineer.h&gt;</tspan></text>
+  <text x="36" y="127" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">02</text>
+  <text x="82" y="127" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve"></text>
+  <text x="36" y="156" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">03</text>
+  <text x="82" y="156" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve"><tspan fill="#60A5FA">static const</tspan> <tspan fill="#EDF2F7">EngineerProfile</tspan> <tspan fill="#E5A93C">aldren</tspan> <tspan fill="#8A99AD">= {</tspan></text>
+  <text x="36" y="185" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">04</text>
+  <text x="82" y="185" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve">  <tspan fill="#8A99AD">.handle</tspan>      <tspan fill="#8A99AD">=</tspan> <tspan fill="#34D399">"Sancho-soft"</tspan><tspan fill="#8A99AD">,</tspan></text>
+  <text x="36" y="214" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">05</text>
+  <text x="82" y="214" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve">  <tspan fill="#8A99AD">.location</tspan>    <tspan fill="#8A99AD">=</tspan> <tspan fill="#34D399">"Philippines"</tspan><tspan fill="#8A99AD">,</tspan></text>
+  <text x="36" y="243" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">06</text>
+  <text x="82" y="243" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve">  <tspan fill="#8A99AD">.systems</tspan>     <tspan fill="#8A99AD">=</tspan> { <tspan fill="#34D399">"C"</tspan>, <tspan fill="#34D399">"Assembly"</tspan>, <tspan fill="#34D399">"x86-64 UEFI"</tspan>, <tspan fill="#34D399">"Linux"</tspan>, <tspan fill="#34D399">"Hardening"</tspan> },</text>
+  <text x="36" y="272" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">07</text>
+  <text x="82" y="272" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve">  <tspan fill="#8A99AD">.fullstack</tspan>   <tspan fill="#8A99AD">=</tspan> { <tspan fill="#34D399">"Laravel"</tspan>, <tspan fill="#34D399">"Flutter"</tspan>, <tspan fill="#34D399">"Node.js"</tspan>, <tspan fill="#34D399">"Next.js"</tspan>, <tspan fill="#34D399">"MySQL"</tspan> },</text>
+  <text x="36" y="301" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">08</text>
+  <text x="82" y="301" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve">  <tspan fill="#8A99AD">.interactive</tspan> <tspan fill="#8A99AD">=</tspan> { <tspan fill="#34D399">"Three.js"</tspan>, <tspan fill="#34D399">"Godot 4"</tspan>, <tspan fill="#34D399">"OpenGL"</tspan>, <tspan fill="#34D399">"Unity"</tspan> },</text>
+  <text x="36" y="330" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">09</text>
+  <text x="82" y="330" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve">  <tspan fill="#8A99AD">.editors</tspan>     <tspan fill="#8A99AD">=</tspan> { <tspan fill="#34D399">"VS Code"</tspan>, <tspan fill="#34D399">"Vim"</tspan> },</text>
+  <text x="36" y="359" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">10</text>
+  <text x="82" y="359" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve">  <tspan fill="#8A99AD">.active</tspan>      <tspan fill="#8A99AD">=</tspan> { <tspan fill="#E5A93C">"OqelixOS"</tspan>, <tspan fill="#E5A93C">"CapaciPrint"</tspan>, <tspan fill="#E5A93C">"OqelixOS-Linux"</tspan> }</text>
+  <text x="36" y="388" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8A99AD" opacity="0.6">11</text>
+  <text x="82" y="388" font-family="ui-monospace, 'SFMono-Regular', 'Cascadia Code', Consolas, 'Liberation Mono', Menlo, monospace" font-size="15.5" fill="#EDF2F7" xml:space="preserve"><tspan fill="#8A99AD">};</tspan></text>
+  <rect x="116" y="376" width="9" height="17" fill="#E5A93C" class="cur"/>
+</svg>
