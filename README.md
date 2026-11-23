@@ -46,8 +46,8 @@ I'm **Aldren Louie Reyes** (`Sancho-Soft`), a full-stack developer based in the 
 <h3><img src="assets/icons/code.svg" width="18" height="18" align="absmiddle" alt="" /> Languages &amp; Bare Metal</h3>
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c,cpp,py,php,cs,dart,js,html,css&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c,cpp,py,php,cs,dart,js,html,css&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cphp%2Ccs%2Cdart%2Cjs%2Chtml%2Ccss&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=c%2Ccpp%2Cpy%2Cphp%2Ccs%2Cdart%2Cjs%2Chtml%2Ccss&theme=light" />
     <img src="https://skillicons.dev/icons?i=c,cpp,py,php,cs,dart,js,html,css&theme=dark" alt="Languages" />
   </picture>
 </p>
@@ -55,8 +55,8 @@ I'm **Aldren Louie Reyes** (`Sancho-Soft`), a full-stack developer based in the 
 <h3><img src="assets/icons/wrench.svg" width="18" height="18" align="absmiddle" alt="" /> Frameworks, Libraries &amp; Tools</h3>
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,laravel,dotnet,tailwind,docker,arduino,git,github,vscode,vim&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter,laravel,dotnet,tailwind,docker,arduino,git,github,vscode,vim&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Claravel%2Cdotnet%2Ctailwind%2Cdocker%2Carduino%2Cgit%2Cgithub%2Cvscode%2Cvim&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flutter%2Claravel%2Cdotnet%2Ctailwind%2Cdocker%2Carduino%2Cgit%2Cgithub%2Cvscode%2Cvim&theme=light" />
     <img src="https://skillicons.dev/icons?i=flutter,laravel,dotnet,tailwind,docker,arduino,git,github,vscode,vim&theme=dark" alt="Frameworks and Tools" />
   </picture>
 </p>
@@ -64,8 +64,8 @@ I'm **Aldren Louie Reyes** (`Sancho-Soft`), a full-stack developer based in the 
 <h3><img src="assets/icons/database.svg" width="18" height="18" align="absmiddle" alt="" /> Databases &amp; Platforms</h3>
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,sqlite,linux,bash&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,sqlite,linux,bash&theme=light" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql%2Csqlite%2Clinux%2Cbash&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql%2Csqlite%2Clinux%2Cbash&theme=light" />
     <img src="https://skillicons.dev/icons?i=mysql,sqlite,linux,bash&theme=dark" alt="Databases and Platforms" />
   </picture>
 </p>
