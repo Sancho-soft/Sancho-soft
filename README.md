@@ -65,24 +65,30 @@ Currently finishing my capstone **CapaciPrint**, developing **OqelixOS** (UEFI k
   </picture>
 </p>
 
-<h3><img src="assets/icons/cpu.svg" width="18" height="18" align="absmiddle" alt="" /> Additional Tech, Hardware &amp; Platforms</h3>
-<p>
-  <img src="https://img.shields.io/badge/Assembly%20Script-161B22?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Script" />
-  <img src="https://img.shields.io/badge/Windows%20Terminal-30363D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
-  <img src="https://img.shields.io/badge/OpenGL-161B22?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
-  <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
-  <img src="https://img.shields.io/badge/AMD-161B22?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
-  <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
-  <img src="https://img.shields.io/badge/Itch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch" />
-  <img src="https://img.shields.io/badge/Steam-161B22?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
-  <img src="https://img.shields.io/badge/Ubisoft-161B22?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft" />
-  <img src="https://img.shields.io/badge/EA-161B22?style=for-the-badge&logo=ea&logoColor=white" alt="EA" />
-  <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games" />
-  <img src="https://img.shields.io/badge/SideQuest-161B22?style=for-the-badge&logo=sidequest&logoColor=white" alt="SideQuest" />
-</p>
+<details>
+  <summary><strong>Additional tech, hardware &amp; platforms</strong></summary>
+
+  <br/>
+
+  <p>
+    <img src="https://img.shields.io/badge/Assembly%20Script-161B22?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly Script" />
+    <img src="https://img.shields.io/badge/Windows%20Terminal-30363D?style=for-the-badge&logo=windowsterminal&logoColor=white" alt="Windows Terminal" />
+    <img src="https://img.shields.io/badge/OpenGL-161B22?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+    <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+    <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+    <img src="https://img.shields.io/badge/Portfolio-161B22?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/AMD-161B22?style=for-the-badge&logo=amd&logoColor=white" alt="AMD" />
+    <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA" />
+    <img src="https://img.shields.io/badge/Itch-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="Itch" />
+    <img src="https://img.shields.io/badge/Steam-161B22?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+    <img src="https://img.shields.io/badge/Ubisoft-161B22?style=for-the-badge&logo=ubisoft&logoColor=white" alt="Ubisoft" />
+    <img src="https://img.shields.io/badge/EA-161B22?style=for-the-badge&logo=ea&logoColor=white" alt="EA" />
+    <img src="https://img.shields.io/badge/Riot%20Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" alt="Riot Games" />
+    <img src="https://img.shields.io/badge/SideQuest-161B22?style=for-the-badge&logo=sidequest&logoColor=white" alt="SideQuest" />
+  </p>
+
+</details>
 
 </div>
 
@@ -219,35 +225,15 @@ An immersive 3D portfolio website with a terminal-style CLI interface and intera
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3><img src="assets/icons/bar-chart.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM">ClientSphere CRM System</a></h3>
-
-A customer relationship management system with multi-iteration improvements across academic projects.
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-</p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3><img src="assets/icons/cpu.svg" width="18" height="18" align="absmiddle" alt="" /> <a href="https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED">Carivio - Career Prediction System</a></h3>
-
-Random Forest-based career pathway and support needs prediction system prototype (discontinued).
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/ML-4D5662?style=flat-square&logo=scikitlearn&logoColor=white" alt="ML" />
-</p>
-
-</td>
-</tr>
 </table>
+
+<details>
+  <summary><strong>Earlier &amp; archived projects</strong></summary>
+
+  - **[ClientSphere CRM System](https://github.com/Sancho-soft/IT-15-ClientSphere-System-CRM)** — customer relationship management system with multi-iteration improvements across academic projects (`HTML5`, `CSS3`, `JavaScript`).
+  - **[Carivio - Career Prediction System](https://github.com/Sancho-soft/-PROTOTYPE-Carivio-Random-Forest-Based-Career-Pathway-Support-Needs-Prediction-System-CANCELLED)** — Random Forest-based career pathway and support needs prediction prototype, discontinued (`HTML5`, `Python`, `ML`).
+
+</details>
 
 ---
 
@@ -285,6 +271,14 @@ Random Forest-based career pathway and support needs prediction system prototype
 <h2><img src="assets/icons/git-commit.svg" width="20" height="20" align="absmiddle" alt="" /> Contribution Activity</h2>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
+    <img alt="3D isometric contribution tower" src="./profile-3d-contrib/profile-night-view.svg" width="100%" />
+  </picture>
+
+  <br/><br/>
+
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sancho-soft/Sancho-soft/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sancho-soft/Sancho-soft/output/github-snake.svg" />
